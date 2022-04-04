@@ -125,11 +125,11 @@ Para ver una guía completa de cómo instalar `git`, ya sea en Linux, MacOS o Wi
 
 Para instalar/descargar las ayudantías y sus soluciones podemos correr los siguientes comandos en una terminal:
 
-1. Clonar el repositorio de Github
+1. Si ya tienes instalado `git` debes clonar el repositorio de Github
    ```sh
    git clone https://github.com/Panchitoz1/ayudantiasAST0111_2022A.git
    ```
-Ello les creará una carpeta llamada `ayudantiasAST0111_2022A` dentro del directorio de donde hayan corrido el código anterior.
+Ello les creará una carpeta llamada `ayudantiasAST0111_2022A` dentro del directorio donde hayan corrido el código anterior.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -155,9 +155,8 @@ Ello les creará una carpeta llamada `ayudantiasAST0111_2022A` dentro del direct
 
 5. Abrimos la ayudantía haciendo un click en el archivo `.ipynb`
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+[![Product Name Gif][product-example]](https://github.com/Panchitoz1/ayudantiasAST0111_2022A)
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -197,4 +196,4 @@ Project Link: [https://github.com/Panchitoz1/ayudantiasAST0111_2022A](https://gi
 [issues-url]: https://github.com/Panchitoz1/ayudantiasAST0111_2022A/issues
 [license-shield]: https://img.shields.io/github/license/Panchitoz1/ayudantiasAST0111_2022A.svg?style=for-the-badge
 [license-url]: https://github.com/Panchitoz1/ayudantiasAST0111_2022A/blob/master/LICENSE.txt
-[product-screenshot]: images/screenshot.png
+[product-example]: images/usage_example.gif
