@@ -28,25 +28,29 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Panchitoz1/ayudantiasAST0111_2022A">
+  <a href="https://github.com/Panchitoz1/Ayudantias_AST0111">
     <img src="images/logo.jpg" alt="Logo" width="500" height="500">
   </a>
 
-<h3 align="center">Ayudantias AST0111 (OFG) 2022A</h3>
+<h3 align="center">Ayudantias AST0111 (OFG)</h3>
 
   <p align="center">
 
   <b>This is an astronomy course taught in spanish.</b><br>
     Soluciones a algunos problemas numéricos de las ayudantías del curso AST0111 - versión OFG
     <br />
-    <a href="https://github.com/Panchitoz1/ayudantiasAST0111_2022A"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Panchitoz1/Ayudantias_AST0111
+"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Panchitoz1/ayudantiasAST0111_2022A">View Demo</a>
+    <a href="https://github.com/Panchitoz1/Ayudantias_AST0111
+">View Demo</a>
     ·
-    <a href="https://github.com/Panchitoz1/ayudantiasAST0111_2022A/issues">Report Bug</a>
+    <a href="https://github.com/Panchitoz1/Ayudantias_AST0111
+/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Panchitoz1/ayudantiasAST0111_2022A/issues">Request Feature</a>
+    <a href="https://github.com/Panchitoz1/Ayudantias_AST0111
+/issues">Request Feature</a>
   </p>
 </div>
 
@@ -127,7 +131,7 @@ Para instalar/descargar las ayudantías y sus soluciones podemos correr los sigu
 
 1. Si ya tienes instalado `git` debes clonar el repositorio de Github
    ```sh
-   git clone https://github.com/Panchitoz1/ayudantiasAST0111_2022A.git
+   git clone https://github.com/Panchitoz1/Ayudantias_AST0111.git
    ```
 Ello les creará una carpeta llamada `ayudantiasAST0111_2022A` dentro del directorio donde hayan corrido el código anterior.
 
@@ -155,7 +159,7 @@ Ello les creará una carpeta llamada `ayudantiasAST0111_2022A` dentro del direct
 
 5. Abrimos la ayudantía haciendo un click en el archivo `.ipynb`
 
-[![Product Name Gif][product-example]](https://github.com/Panchitoz1/ayudantiasAST0111_2022A)
+[![Product Name Gif][product-example]](https://github.com/Panchitoz1/Ayudantias_AST011)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -175,7 +179,7 @@ Distribuido bajo la licencia MIT. Ver el archivo `LICENSE` para más informació
 
 Francisco Carrasco -  ffcarrasco@uc.cl
 
-Project Link: [https://github.com/Panchitoz1/ayudantiasAST0111_2022A](https://github.com/Panchitoz1/ayudantiasAST0111_2022A)
+Project Link: [https://github.com/Panchitoz1/Ayudantias_AST011](https://github.com/Panchitoz1/Ayudantias_AST011)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -187,13 +191,13 @@ Project Link: [https://github.com/Panchitoz1/ayudantiasAST0111_2022A](https://gi
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/Panchitoz1/ayudantiasAST0111_2022A.svg?style=for-the-badge
-[contributors-url]: https://github.com/Panchitoz1/ayudantiasAST0111_2022A/graphs/contributors
+[contributors-url]: https://github.com/Panchitoz1/Ayudantias_AST011/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Panchitoz1/ayudantiasAST0111_2022A.svg?style=for-the-badge
-[forks-url]: https://github.com/Panchitoz1/ayudantiasAST0111_2022A/network/members
+[forks-url]: https://github.com/Panchitoz1/Ayudantias_AST011/network/members
 [stars-shield]: https://img.shields.io/github/stars/Panchitoz1/ayudantiasAST0111_2022A.svg?style=for-the-badge
-[stars-url]: https://github.com/Panchitoz1/ayudantiasAST0111_2022A/stargazers
+[stars-url]: https://github.com/Panchitoz1/Ayudantias_AST011/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Panchitoz1/ayudantiasAST0111_2022A.svg?style=for-the-badge
-[issues-url]: https://github.com/Panchitoz1/ayudantiasAST0111_2022A/issues
+[issues-url]: https://github.com/Panchitoz1/Ayudantias_AST011/issues
 [license-shield]: https://img.shields.io/github/license/Panchitoz1/ayudantiasAST0111_2022A.svg?style=for-the-badge
-[license-url]: https://github.com/Panchitoz1/ayudantiasAST0111_2022A/blob/master/LICENSE.txt
+[license-url]: https://github.com/Panchitoz1/Ayudantias_AST011/blob/master/LICENSE.txt
 [product-example]: images/usage_example.gif
