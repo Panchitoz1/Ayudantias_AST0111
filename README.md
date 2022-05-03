@@ -37,7 +37,7 @@
   <p align="center">
 
   <b>This is an astronomy course dictated in spanish.</b><br>
-    Soluciones a algunos problemas numéricos de las ayudantías del curso AST0111 - versión OFG
+    Soluciones a algunos problemas numéricos de las ayudantías del curso AST0111 - versión OFG y para Novatos Astronomía
     <br />
     <a href="https://github.com/Panchitoz1/Ayudantias_AST0111
 "><strong>Explore the docs »</strong></a>
