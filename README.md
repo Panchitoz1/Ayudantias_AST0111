@@ -36,7 +36,7 @@
 
   <p align="center">
 
-  <b>This is an astronomy course taught in spanish.</b><br>
+  <b>This is an astronomy course dictated in spanish.</b><br>
     Soluciones a algunos problemas numéricos de las ayudantías del curso AST0111 - versión OFG
     <br />
     <a href="https://github.com/Panchitoz1/Ayudantias_AST0111
