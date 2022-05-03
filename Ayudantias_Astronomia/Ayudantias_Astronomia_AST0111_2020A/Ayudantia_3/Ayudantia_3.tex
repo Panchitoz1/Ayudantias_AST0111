@@ -1,0 +1,163 @@
+\documentclass{article}
+% pre\'ambulo
+
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+\usepackage[spanish,activeacute]{babel}
+\usepackage{mathtools}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{tabu}
+\usepackage{hyperref}
+\usepackage[utf8]{inputenc}
+\usepackage{multicol}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{enumerate}
+\usepackage{amsthm}
+\usepackage{wrapfig}
+\usepackage{esvect}
+\usepackage{subcaption}
+\usepackage{wasysym}
+
+\spanishdecimal{.}
+
+
+
+
+% Default fixed font does not support bold face
+\DeclareFixedFont{\ttb}{T1}{txtt}{bx}{n}{8} % for bold
+\DeclareFixedFont{\ttm}{T1}{txtt}{m}{n}{8}  % for normal
+
+% Custom colors
+\usepackage[usenames,dvipsnames]{color}
+\definecolor{deepblue}{rgb}{0,0,0.5}
+\definecolor{deepred}{rgb}{0.6,0,0}
+\definecolor{deepgreen}{rgb}{0,0.5,0}
+
+% Python style for highlighting
+\newcommand\pythonstyle{\lstset{
+language=Python,
+basicstyle=\ttm,
+otherkeywords={self},             % Add keywords here
+keywordstyle=\ttb\color{deepblue},
+emph={MyClass,__init__},          % Custom highlighting
+emphstyle=\ttb\color{deepred},    % Custom highlighting style
+stringstyle=\color{deepgreen},
+frame=tb,                         % Any extra options here
+showstringspaces=false            % 
+}}
+
+
+% Python environment
+\lstnewenvironment{python}[1][]
+{
+\pythonstyle
+\lstset{#1}
+}
+{}
+
+% Python for external files
+\newcommand\pythonexternal[2][]{{
+\pythonstyle
+\lstinputlisting[#1]{#2}}}
+
+% Python for inline
+\newcommand\pythoninline[1]{{\pythonstyle\lstinline!#1!}}
+
+\usepackage{amsmath} % or simply amstext
+\newcommand{\angstrom}{\text{\normalfont\AA}}
+\newcommand*{\everymodeprime}{\ensuremath{\prime}}
+
+\title{Tarea 1}
+\author{Francisco Felipe Carrasco Varela}
+
+\usepackage{vmargin}
+
+\setpapersize{A4}
+\setmargins{1.82cm}       % margen izquierdo
+{1.3cm}                        % margen superior
+{17.5cm}                      % anchura del texto
+{23.42cm}                    % altura del texto
+{10pt}                           % altura de los encabezados
+{1cm}                           % espacio entre el texto y los encabezados
+{0pt}                             % altura del pie de página
+{2cm}                           % espacio entre el texto y el pie de página
+
+\usepackage{array,booktabs,tabularx,caption, ragged2e}
+\newcolumntype{C}{>{\centering\arraybackslash}X}
+
+\begin{document}
+\begin{minipage}{2.3cm}
+\includegraphics[width=2cm]{../logo_byn.png}
+\vspace{0.5cm}
+\end{minipage}
+\begin{minipage}{\linewidth}
+\textsc{\raggedright \footnotesize
+Pontificia Universidad Católica de Chile \\
+Facultad de Física -- Instituto de Astrof'isica \\
+Astronom'ia -- AST0111 \\
+Primer Semestre 2020}
+\end{minipage}
+\begin{center}
+{\LARGE \textbf{Ayudant'ia 3}}
+
+\vspace{3mm}
+
+Profesora: Viviana Guzm'an
+
+Ayudantes: Camila Aravena Gonz'alez (\texttt{cfaravena1$@$uc.cl}) -- Francisco Carrasco Varela (\texttt{ffcarrasco$@$uc.cl})
+
+\end{center}
+\begin{center}
+\noindent\rule{12cm}{0.4pt}
+\end{center}
+
+Esta ayudant'ia tratar'a principalmente de repasar conceptos.
+
+\vspace{3mm}
+
+\textbf{Problema 1. D'ia sideral y d'ia solar}
+
+\begin{enumerate} [a)]
+\item ?`Cu'al es la diferencia entre el a'no tr'opico y el a'no sideral?
+
+\item ?`A qu'e se debe esta diferencia?
+
+\item ?`En cu'al de los dos a'nos se basa nuestro calendario? ?`Sideral o tr'opico?
+\end{enumerate}
+
+\vspace{5mm}
+
+\textbf{Problema 2. Analema.} La Figura 1 muestra un analema. 
+
+\begin{enumerate} [a)]
+
+\item ?`Qu'e es un analema?
+
+\item ?`Qu'e informaci'on podemos obtener de un analema si es que, adem'as, conocemos el hemisferio en el cual nos encontramos?
+
+\item Dibuje en la Figura 1 en qu'e punto del analema el Sol se encuentra en el Solsticio de Verano, Invierno o el Ecuador Celeste. Para ello asume que el Sur se encuentra en la parte inferior del dibujo.
+\end{enumerate}
+
+\begin{figure}[!ht]
+\begin{center}
+\begin{tabular}{ll}
+  \includegraphics[width=0.1\textwidth]{Analema.png}
+\end{tabular}
+\caption{Analema en alg'un lugar del hemisferio norte. Recuerde que en esta figura el Sur se encuentra en la parte inferior (o apuntando hacia abajo).}
+\end{center} 
+\end{figure}
+
+\newpage
+
+\textbf{Problema 3.} Suponga que usted observa todos los d'ias alg'un astro apenas este sale del horizonte. Si usted lo observ'o hoy, usted debe estimar a qu'e hora saldr'a mañana. 
+
+?`Por qu'e este objeto va saliendo antes (o despu'es) del horizonte? Para ello le puede ser de utilidad realizar un dibujo.
+
+\vspace{3mm}
+
+\textbf{Problema 4.} Chile y su horario. Santiago, junto con todo Chile, deber'ia tener el horario \texttt{GMT $-5$}. Sin embargo, el que se usa es el horario \texttt{GMT $-4$}. Basados en esto, ?`a qu'e hora, aproximadamente, el Sol alcanza su m'axima altura y por qu'e?
+
+
+\end{document}
