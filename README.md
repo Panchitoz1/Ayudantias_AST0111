@@ -80,7 +80,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Acerca del proyecto
-<b>This is an astronomy course taught in spanish.</b>
+<b>This is an astronomy course dictated in spanish.</b>
 
 
 Soluciones a las ayudantías del curso Astronomía (AST0111) de la Pontificia Universidad Católica de Chile (PUC) mediante algunos códigos hechos en Python.
@@ -91,11 +91,13 @@ Soluciones a las ayudantías del curso Astronomía (AST0111) de la Pontificia Un
 
 
 <!-- GETTING STARTED -->
-## Para empezar
+## Para empezar 
 
 Para ver las soluciones de las ayudantías simplemente puedes acceder a las carpetas de la ayudantía correspondiente. Allí encontrarás el enunciado y la solución (si es que la hay) de la ayudantía correspondiente. El enunciado está en formato `PDF` y la solución en formato `.ipynb` (ver siguiente sub-sección si no sabes qué es eso)
 
-### Prerequisitos
+Si quieres ver las soluciones en tu computador te recomiendo seguir las instrucciones a continuación, aunque con verlas en esta página web/repositorio basta y sobra. Si deseas saber el paso a paso de cómo descargar y ver las ayudantías en tu computador puedes leer lo que sigue a continuación.
+
+### Prerequisitos (opcionales, para ver en tu computadora)
 
 Para ver las ayudantías de manera óptima recomiendo instalar un programa llamado `Jupyter` el cual es un programa bastante útil en el cual se pueden correr programas, escritos en el lenguaje de programación Python, por partes; además de otras funcionalidades.
 
@@ -177,7 +179,7 @@ Distribuido bajo la licencia MIT. Ver el archivo `LICENSE` para más informació
 <!-- CONTACT -->
 ## Contacto
 
-Francisco Carrasco -  ffcarrasco@uc.cl
+Francisco Carrasco Varela -  ffcarrasco@uc.cl
 
 Project Link: [https://github.com/Panchitoz1/Ayudantias_AST011](https://github.com/Panchitoz1/Ayudantias_AST011)
 
